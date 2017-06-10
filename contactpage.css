@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  background-color: white;
+  color: black;
+
+}
+
+body, html {
+  height: 100%;
+
+}
+
+h1 {
+  margin: 0;
+  background-color: white;
+  color: black;
+  list-style: none;
+  text-align: center;
+  padding: 0px 0px 3px 0px;
+
+}
+
+a {
+  text-decoration: none;
+  color: red;
+
+}
+
+div {
+  margin: auto;
+
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+
+}
